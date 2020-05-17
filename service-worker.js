@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hangout/precache-manifest.5060fd9ae8e1eac83c35e9f169ea74c9.js"
+  "/hangout/precache-manifest.ea6f5b952029ea8dcb714b48c8ae81a6.js"
 );
 
 self.addEventListener('message', (event) => {
